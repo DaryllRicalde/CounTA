@@ -4,7 +4,9 @@ The DOTA 2 Utility for countering heroes.
 
 ## How to run the client
 - Head to the `client` directory
-- `npm start`
+- run `npm install`
+- run `npm start`
+- On a browser, type `http://localhost:3000`
 
 ## TODO
 - [x] Hero pool grid
